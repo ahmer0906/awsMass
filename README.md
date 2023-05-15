@@ -99,7 +99,3 @@ To execute the `aws_Mass_Test` test, please follow the steps outlined below:
    - Each row represents a date/time entry along with its calculated average.
 
 9. Review the test execution results, including any anomalies or errors that were identified during the test run.
-
-10. If you encounter any issues or errors during the execution, please refer to the troubleshooting section in the project documentation or seek assistance from the project team.
-
-By following these steps, you will be able to execute the `aws_Mass_Test` and obtain the output CSV file containing the calculated averages for each date.
